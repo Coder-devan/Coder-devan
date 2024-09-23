@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Coder-devan
 - 👀 I’m interested in coding and learning
 - 🌱 I’m currently learning VScode/cmd
-- 💞️ I’m looking to collaborate with Hamacehr.gmbh
+- 💞️ I’m looking to collaborate with Hamacher.gmbh
 - 📫 How to reach me wireshark.com
 - 😄 Pronouns: VSCODE/öffnen
 - ⚡ Fun fact: Coding ist im Raum 363 Standart
